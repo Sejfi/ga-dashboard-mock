@@ -1,0 +1,201 @@
+{
+  "reports": [
+    {
+      "columnHeader": {
+        "dimensions": [
+          "ga:browser"
+        ],
+        "metricHeader": {
+          "metricHeaderEntries": [
+            {
+              "name": "ga:users",
+              "type": "INTEGER"
+            }
+          ]
+        }
+      },
+      "data": {
+        "rows": [
+          {
+            "dimensions": [
+              "Android Webview"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "2"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Chrome"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "327"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Edge"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "18"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Firefox"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "44"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Internet Explorer"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "10"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Mozilla Compatible Agent"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "7"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Opera"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "16"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Safari"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "99"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Safari (in-app)"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "3"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Samsung Internet"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "3"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "SeaMonkey"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "UC Browser"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "8"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "YaBrowser"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "6"
+                ]
+              }
+            ]
+          }
+        ],
+        "totals": [
+          {
+            "values": [
+              "544"
+            ]
+          }
+        ],
+        "rowCount": 13,
+        "minimums": [
+          {
+            "values": [
+              "1"
+            ]
+          }
+        ],
+        "maximums": [
+          {
+            "values": [
+              "327"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "kind": "analytics#accounts",
+  "username": "frantisek.dobrota@gmail.com",
+  "totalResults": 2,
+  "startIndex": 1,
+  "itemsPerPage": 1000,
+  "items": [
+    {
+      "id": "10319094",
+      "kind": "analytics#account",
+      "selfLink": "https://www.googleapis.com/analytics/v3/management/accounts/10319094",
+      "name": "F4",
+      "permissions": {
+        "effective": []
+      },
+      "created": "2009-08-20T18:30:17.000Z",
+      "updated": "2019-07-24T22:18:26.279Z",
+      "childLink": {
+        "type": "analytics#webproperties",
+        "href": "https://www.googleapis.com/analytics/v3/management/accounts/10319094/webproperties"
+      }
+    },
+    {
+      "id": "62225230",
+      "kind": "analytics#account",
+      "selfLink": "https://www.googleapis.com/analytics/v3/management/accounts/62225230",
+      "name": "Study in Prague",
+      "permissions": {
+        "effective": []
+      },
+      "created": "2015-04-23T20:08:35.178Z",
+      "updated": "2015-08-12T00:29:12.250Z",
+      "childLink": {
+        "type": "analytics#webproperties",
+        "href": "https://www.googleapis.com/analytics/v3/management/accounts/62225230/webproperties"
+      }
+    }
+  ]
+}

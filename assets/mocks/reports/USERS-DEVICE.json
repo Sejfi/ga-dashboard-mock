@@ -1,0 +1,81 @@
+{
+  "reports": [
+    {
+      "columnHeader": {
+        "dimensions": [
+          "ga:deviceCategory"
+        ],
+        "metricHeader": {
+          "metricHeaderEntries": [
+            {
+              "name": "ga:users",
+              "type": "INTEGER"
+            }
+          ]
+        }
+      },
+      "data": {
+        "rows": [
+          {
+            "dimensions": [
+              "desktop"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "400"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "mobile"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "141"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "tablet"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "3"
+                ]
+              }
+            ]
+          }
+        ],
+        "totals": [
+          {
+            "values": [
+              "544"
+            ]
+          }
+        ],
+        "rowCount": 3,
+        "minimums": [
+          {
+            "values": [
+              "3"
+            ]
+          }
+        ],
+        "maximums": [
+          {
+            "values": [
+              "400"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

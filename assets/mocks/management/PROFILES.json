@@ -1,0 +1,38 @@
+{
+  "kind": "analytics#profiles",
+  "username": "frantisek.dobrota@gmail.com",
+  "totalResults": 1,
+  "startIndex": 1,
+  "itemsPerPage": 1000,
+  "items": [
+    {
+      "id": "101345654",
+      "kind": "analytics#profile",
+      "selfLink": "https://www.googleapis.com/analytics/v3/management/accounts/62225230/webproperties/UA-62225230-1/profiles/101345654",
+      "accountId": "62225230",
+      "webPropertyId": "UA-62225230-1",
+      "internalWebPropertyId": "97205360",
+      "name": "Všechny údaje o webu",
+      "currency": "USD",
+      "timezone": "Europe/Prague",
+      "websiteUrl": "http://www.studyinprague.cz",
+      "type": "WEB",
+      "permissions": {
+        "effective": [
+          "READ_AND_ANALYZE"
+        ]
+      },
+      "created": "2015-04-23T20:08:35.178Z",
+      "updated": "2020-07-16T12:18:16.468Z",
+      "eCommerceTracking": false,
+      "parentLink": {
+        "type": "analytics#webproperty",
+        "href": "https://www.googleapis.com/analytics/v3/management/accounts/62225230/webproperties/UA-62225230-1"
+      },
+      "childLink": {
+        "type": "analytics#goals",
+        "href": "https://www.googleapis.com/analytics/v3/management/accounts/62225230/webproperties/UA-62225230-1/profiles/101345654/goals"
+      }
+    }
+  ]
+}

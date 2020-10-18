@@ -1,0 +1,117 @@
+{
+  "reports": [
+    {
+      "columnHeader": {
+        "dimensions": [
+          "ga:operatingSystem"
+        ],
+        "metricHeader": {
+          "metricHeaderEntries": [
+            {
+              "name": "ga:users",
+              "type": "INTEGER"
+            }
+          ]
+        }
+      },
+      "data": {
+        "rows": [
+          {
+            "dimensions": [
+              "(not set)"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "7"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Android"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "68"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "iOS"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "76"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Linux"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "18"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Macintosh"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "65"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Windows"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "310"
+                ]
+              }
+            ]
+          }
+        ],
+        "totals": [
+          {
+            "values": [
+              "544"
+            ]
+          }
+        ],
+        "rowCount": 6,
+        "minimums": [
+          {
+            "values": [
+              "7"
+            ]
+          }
+        ],
+        "maximums": [
+          {
+            "values": [
+              "310"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

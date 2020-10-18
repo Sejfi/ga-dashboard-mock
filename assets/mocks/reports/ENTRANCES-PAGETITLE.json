@@ -1,0 +1,3093 @@
+{
+  "reports": [
+    {
+      "columnHeader": {
+        "dimensions": [
+          "ga:pageTitle"
+        ],
+        "metricHeader": {
+          "metricHeaderEntries": [
+            {
+              "name": "ga:entrances",
+              "type": "INTEGER"
+            }
+          ]
+        }
+      },
+      "data": {
+        "rows": [
+          {
+            "dimensions": [
+              "(not set)"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "9"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "About Czech Republic – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "2"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "About Prague – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "5"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "About Study in Prague – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "6"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Academy of Arts, Architecture and Design in Prague – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "58"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Academy of Performing Arts in Prague – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "8"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Academy Preparation Program – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Accommodation – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "316"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Accounting and Corporate Financial Management – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "6"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Acoustics – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Addictology – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "3"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Advanced Powertrains – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "6"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Agricultural and Forestry Phytopathology and Plant Protection – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Agricultural Engineering – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Agriculture and Food – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Air Traffic Control and Management – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "25"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Air Transport – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "6"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Algebra, number theory, and mathematical logic – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "2"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Anti-COVID activities at CZU – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Applications of Software Engineering – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "2"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Applied Informatics – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Applied Mechanics – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "6"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "April 2019 – Page 2 – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Architecture – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "87"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Architecture, Building and Technology – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "2"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Artificial Intelligence and Biocybernetics – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "7"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Arts Management – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "7"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Asian History and Culture – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Authorial Acting – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "2"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Avionics – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Basic Tips for Everyday Living – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "9"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Biochemistry – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Bioinformatics – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "2"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Biomechanics – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Biomedical Informatics – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Biotechnology and Food Science – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "11"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Blog – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "7"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Boston meets Prague – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Brina: Basic czech expressions – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Brina: Having a part-time/summer job in Prague – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Building Engineering – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Business Administration – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "9"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Cello – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "2"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Chamber Music – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Charles University in Prague – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "19"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Chemistry and Technology (Faculty of Chemical Engineering) – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Choreography – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "8"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Cinematography – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "31"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Civil Engineering – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "2"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Clarinet – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Clinical and Health Psychology – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "2"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Commercial and International Economic Law – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "19"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Composition – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "5"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Computational linguistics – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Computer Science – Software and Data Engineering – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Computer Science – Theory of Computing, Discrete Models and Optimization – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Computer Science – Visual Computing and Game Development – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "5"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Computer Science (Bachelor, in English) – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "56"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Computer Security – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "34"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Computer Systems and Networks – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "2"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Computer Vision and Image Processing – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "3"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Conducting – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "3"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Contact – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "3"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Contact Local Students – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "10"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Control and Systems Engineering – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Cost of Living – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "41"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Costo de vida: estudiar en Praga"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "COVID-19 – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "2"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "CTU Summer School 2020 ROBOTICS & FUTURE-TECH – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Culture – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Current situation in the Czech Republic regarding the spread of the Covid-19 infection – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "67"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Cyber Security – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Czech Culture Shock – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Czech for Compatriots – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Czech Language and Culture Course – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Czech Summer School of Linguistics – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "3"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Czech sweets – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "15"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Czech Technical University in Prague – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "21"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Czech University of Life Sciences, Prague – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "71"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Daria: Going to the hairdresser´s – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Daria: Language issues – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Daria: The way I spend my free time here in Prague – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "3"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Data Engineering in Chemistry – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "2"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Data Science – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "53"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Dentistry – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "9"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Design – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "5"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Design and Programming of Embedded Systems – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "8"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Did you recognize Prague? – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "2"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Didactics of Chemistry – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "2"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Directing of Devised and Object Theatre – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Directing of Dramatic Theatre – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "2"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Discover Prague – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "4"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Discover Prague on Map – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Dogs – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "12"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "East and Central European Studies (ECES) – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Econometrics and Operational Research – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "3"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Economic Data Analysis – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "3"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Economic Theory – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Economics – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Economics and Finance – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "2"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Education & Training Expo Oman (EDUTREX) 2019 – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Eduroam – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Electric Machines, Apparatus and Drives – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Electric Power Engineering – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Electrical Engineering and Computer Science – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "21"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Electrical Power Engineering – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Electronics – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Engineering of Agricultural Technological Systems – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Environmental Engineering – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "5"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Erasmus Mundus – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "8"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Ethnology and Cultural Anthropology – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "2"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Famous in Prague – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "5"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Finance – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "3"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Finance and Accounting – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "34"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Food and Natural Products – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "3"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Gender Studies – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "3"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "General Medicine – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "2"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Geodesy and Cartography – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "3"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Geopolitical Studies – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "German and French Philosophy – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Guest lecture Department of Photography: Julie Bena – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Harp – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Harpsichord – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Health System – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "13"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "History and Area Studies – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "History of Architecture and Monument Conservation – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "21"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "How the „black swan events“ affect the Charles University life in the course of time – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "2"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Human-Computer Interaction – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "4"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Imaging Methods in Medicine – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "6"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Informatics – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Information about Visa – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "174"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Information Science and Computer Engineering – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "3"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Information Systems Management – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "11"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Innovation Project Management – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "17"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Instrumentation and Control Engineering – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "6"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Intelligent Transport Systems – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "9"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Internal Medicine – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "International and Diplomatic Studies – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "18"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "International Business – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "2"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "International Cooperation in Agriculture and Rural Development – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "International Management (CEMS MIM) – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "7"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "International Student Organizations – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "International Symposium Bertolt Brecht: Contradictions as a Method – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "IOM Summer School on Migration Studies 2020 – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "2"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Jewish Studies – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "3"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Jimena: Emergency Numbers – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Jimena: Lítačka – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Jimena: Student accommodation – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "13"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Kathrin: 10 things to do when under quarantine in Prague – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "2"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Kathrin: Day trip to Karlovy Vary – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "7"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Kathrin: Sunrise from the Charles Bridge – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "5"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Kinesiology and Rehabilitation – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Landscape Planning – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "4"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Language Café: Español – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Liberal Arts and Humanities – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "2"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Life Hacks – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "2"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Life in Prague – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "55"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "LL.M. Programme – The Law and Business in the Czech Republic and Central Europe – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "5"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Machiavelli and Contemporary Politics – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Manufacturing Technology – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Mathematical Analysis – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Mathematical Modelling in Engineering – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "2"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Mathematics in Civil Engineering – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Measurement and Instrumentation – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "39"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Mechanics of Solids, Deformable Bodies and Continua – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "2"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Mechatronics – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "4"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Media and Communication studies – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "2"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Meet other students – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "15"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Meet us on these events – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Minami: Applying for a visa – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Molecular and Cellular Biology, Genetics and Virology – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Music Management – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "10"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Musicology – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Must see in Prague – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "13"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "No Special Fields of Study – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Nuclear Chemistry – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "26"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Nuclear Engineering – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "6"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Oboe – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Orientation Week – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Page not found – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "5"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Percussion Instruments – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Pharmaceutical Sciences – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "2"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Physics and Technology of Thermonuclear Fusion – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "2"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Physiotherapy – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "12"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Piano – Jazz – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "8"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Piano – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Plasma Physics – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "2"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Political Science – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "12"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Preparatory Courses – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "25"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Probability and statistics, econometrics and financial mathematics – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "8"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Probability, Mathematical Statistics and Econometrics – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "3"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Process Engineering – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "4"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Professional Pilot – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "31"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Quantum Optics and Optoelectronics – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Radio Systems – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Radiologic Physics – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Requirements – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "4"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Robotics – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "12"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Sabina: Remarkable Czech Women – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "6"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Saxophone – Jazz – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "2"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Scholarships – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "226"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Search results – Study programmes – Page 11 – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Search results – Study programmes – Page 2 – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "10"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Search results – Study programmes – Page 3 – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "4"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Search results – Study programmes – Page 4 – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Search results – Study programmes – Page 5 – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "2"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Search results – Study programmes – Page 6 – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Search results – Study programmes – Page 7 – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "3"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Search results – Study programmes – Page 8 – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Search results – Study programmes – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "70"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Semiotics and Philosophy of Communication – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "2"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Software Engineering – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "32"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Software Engineering (Bachelor, in English) – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "9"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Something to go with the Beer – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Sound Production – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "35"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Special Education – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "2"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Sports – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "11"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Stage Design – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "5"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Student Life in Prague – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "41"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Student Testimonials – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "27"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Student to Student postcards without stamps – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "29"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Studies Recognition – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "20"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "751"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Study in Prague – Page 2"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "2"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Study in Prague – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "11"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Study System – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "18"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Summer FLAS Prague – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Summer School of Experimental Surgery – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "4"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Summer School of Slavonic Studies – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Sustainability and Environmental Engineering – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "11"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Sustainable Use of Natural Resources – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Systematic Integration of Processes in Healthcare – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Technology of the Internet of Things – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "2"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Telecommunication Engineering – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "8"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "The Bat Story – Scientist Radek Lučan on bats’ remarkable immunity and links to Covid-19 – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "2"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "The concise guide to: being a student in Prague – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "5"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Theoretical Physics, Astronomy and Astrophysics – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Thermodynamics and Fluid Mechanics – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "3"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Top Universities – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "138"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Translation Studies – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "5"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Transportation Logistics – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "11"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "University of Chemistry and Technology, Prague – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "6"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "University of Economics, Prague – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "17"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Urban Design and Spatial Planning – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "22"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "USE-IT Maps – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Useful NGOs in Prague – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "23"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Vehicle Dynamics and Clean Driveline Control Systems – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "2"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Visual Arts – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "5"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Voice – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "4"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Water Management – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Work in Czech Republic – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "85"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Your study – Study in Prague"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "6"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "المنح الدراسية - الدراسة في براغ"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "프라하에서 공부"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          }
+        ],
+        "totals": [
+          {
+            "values": [
+              "3635"
+            ]
+          }
+        ],
+        "rowCount": 254,
+        "minimums": [
+          {
+            "values": [
+              "0"
+            ]
+          }
+        ],
+        "maximums": [
+          {
+            "values": [
+              "751"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

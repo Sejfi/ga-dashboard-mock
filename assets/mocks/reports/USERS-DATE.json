@@ -1,0 +1,417 @@
+{
+  "reports": [
+    {
+      "columnHeader": {
+        "dimensions": [
+          "ga:date"
+        ],
+        "metricHeader": {
+          "metricHeaderEntries": [
+            {
+              "name": "ga:users",
+              "type": "INTEGER"
+            }
+          ]
+        }
+      },
+      "data": {
+        "rows": [
+          {
+            "dimensions": [
+              "20200715"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "112"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "20200716"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "97"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "20200717"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "98"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "20200718"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "90"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "20200719"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "82"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "20200720"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "114"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "20200721"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "144"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "20200722"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "121"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "20200723"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "112"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "20200724"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "100"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "20200725"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "85"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "20200726"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "103"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "20200727"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "132"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "20200728"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "100"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "20200729"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "125"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "20200730"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "126"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "20200731"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "115"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "20200801"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "80"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "20200802"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "91"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "20200803"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "109"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "20200804"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "95"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "20200805"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "118"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "20200806"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "83"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "20200807"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "100"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "20200808"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "82"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "20200809"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "98"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "20200810"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "111"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "20200811"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "105"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "20200812"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "102"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "20200813"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "125"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "20200814"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "45"
+                ]
+              }
+            ]
+          }
+        ],
+        "totals": [
+          {
+            "values": [
+              "3200"
+            ]
+          }
+        ],
+        "rowCount": 31,
+        "minimums": [
+          {
+            "values": [
+              "45"
+            ]
+          }
+        ],
+        "maximums": [
+          {
+            "values": [
+              "144"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
