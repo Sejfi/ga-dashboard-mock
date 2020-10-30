@@ -1,18 +1,18 @@
 {
   "kind": "analytics#webproperties",
   "username": "frantisek.dobrota@gmail.com",
-  "totalResults": 2,
+  "totalResults": 1,
   "startIndex": 1,
   "itemsPerPage": 1000,
   "items": [
     {
-      "id": "UA-10319094-8",
+      "id": "UA-22229999-9",
       "kind": "analytics#webproperty",
-      "selfLink": "https://www.googleapis.com/analytics/v3/management/accounts/10319094/webproperties/UA-10319094-8",
-      "accountId": "10319094",
+      "selfLink": "https://www.googleapis.com/analytics/v3/management/accounts/10319094/webproperties/UA-22229999-9",
+      "accountId": "222299999",
       "internalWebPropertyId": "22531947",
       "name": "Study in Prague",
-      "websiteUrl": "http://kizi.vse.cz",
+      "websiteUrl": "http://test.cz",
       "level": "STANDARD",
       "profileCount": 1,
       "industryVertical": "UNSPECIFIED",
@@ -28,11 +28,11 @@
       "updated": "2018-11-05T18:15:13.990Z",
       "parentLink": {
         "type": "analytics#account",
-        "href": "https://www.googleapis.com/analytics/v3/management/accounts/10319094"
+        "href": "https://www.googleapis.com/analytics/v3/management/accounts/22229999"
       },
       "childLink": {
         "type": "analytics#profiles",
-        "href": "https://www.googleapis.com/analytics/v3/management/accounts/10319094/webproperties/UA-10319094-8/profiles"
+        "href": "https://www.googleapis.com/analytics/v3/management/accounts/10319999/webproperties/UA-22229999-9/profiles"
       }
     }
   ]
