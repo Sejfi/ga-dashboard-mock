@@ -1,0 +1,81 @@
+{
+  "reports": [
+    {
+      "columnHeader": {
+        "dimensions": [
+          "ga:eventAction"
+        ],
+        "metricHeader": {
+          "metricHeaderEntries": [
+            {
+              "name": "ga:totalEvents",
+              "type": "INTEGER"
+            }
+          ]
+        }
+      },
+      "data": {
+        "rows": [
+          {
+            "dimensions": [
+              "Browsing"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "64"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Menu Click"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "299"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Tab Click"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "860"
+                ]
+              }
+            ]
+          }
+        ],
+        "totals": [
+          {
+            "values": [
+              "1223"
+            ]
+          }
+        ],
+        "rowCount": 3,
+        "minimums": [
+          {
+            "values": [
+              "64"
+            ]
+          }
+        ],
+        "maximums": [
+          {
+            "values": [
+              "860"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

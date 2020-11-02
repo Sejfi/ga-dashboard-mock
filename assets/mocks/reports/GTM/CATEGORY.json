@@ -1,0 +1,81 @@
+{
+  "reports": [
+    {
+      "columnHeader": {
+        "dimensions": [
+          "ga:eventCategory"
+        ],
+        "metricHeader": {
+          "metricHeaderEntries": [
+            {
+              "name": "ga:totalEvents",
+              "type": "INTEGER"
+            }
+          ]
+        }
+      },
+      "data": {
+        "rows": [
+          {
+            "dimensions": [
+              "Administration"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "299"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Browsing"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "860"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Nav"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "64"
+                ]
+              }
+            ]
+          }
+        ],
+        "totals": [
+          {
+            "values": [
+              "1223"
+            ]
+          }
+        ],
+        "rowCount": 3,
+        "minimums": [
+          {
+            "values": [
+              "64"
+            ]
+          }
+        ],
+        "maximums": [
+          {
+            "values": [
+              "860"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

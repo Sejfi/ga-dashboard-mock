@@ -1,0 +1,1389 @@
+{
+  "reports": [
+    {
+      "columnHeader": {
+        "dimensions": [
+          "ga:eventLabel"
+        ],
+        "metricHeader": {
+          "metricHeaderEntries": [
+            {
+              "name": "ga:totalEvents",
+              "type": "INTEGER"
+            }
+          ]
+        }
+      },
+      "data": {
+        "rows": [
+          {
+            "dimensions": [
+              "Browse"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "64"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "calendar-tab"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "130"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "http://localhost:8080/a/testLeague/1/drivers"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "http://localhost:8080/a/testLeague/1/home"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Australia%2B%2526%2BNew%2BZealand%2BRacing%2BGroup/95/admins"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "2"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Australia%2B%2526%2BNew%2BZealand%2BRacing%2BGroup/95/admins#"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Australia%2B%2526%2BNew%2BZealand%2BRacing%2BGroup/95/calendar"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "4"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Australia%2B%2526%2BNew%2BZealand%2BRacing%2BGroup/95/drivers"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "6"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Australia%2B%2526%2BNew%2BZealand%2BRacing%2BGroup/95/drivers#"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Australia%2B%2526%2BNew%2BZealand%2BRacing%2BGroup/95/home"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "16"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Australia%2B%2526%2BNew%2BZealand%2BRacing%2BGroup/95/penalties"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Australia%2B%2526%2BNew%2BZealand%2BRacing%2BGroup/95/results"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "5"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Australia%2B%2526%2BNew%2BZealand%2BRacing%2BGroup/95/results/569#"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Australia%2B%2526%2BNew%2BZealand%2BRacing%2BGroup/95/teams"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "4"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Australia%2B%2526%2BNew%2BZealand%2BRacing%2BGroup/96/admins"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "2"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Australia%2B%2526%2BNew%2BZealand%2BRacing%2BGroup/96/drivers"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "4"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Australia%2B%2526%2BNew%2BZealand%2BRacing%2BGroup/96/drivers#"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Australia%2B%2526%2BNew%2BZealand%2BRacing%2BGroup/96/home"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "4"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Australia%2B%2526%2BNew%2BZealand%2BRacing%2BGroup/96/penalties"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Australia%2B%2526%2BNew%2BZealand%2BRacing%2BGroup/96/teams"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Australia%2B%2526%2BNew%2BZealand%2BRacing%2BGroup/97/home"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Australia%2B%2526%2BNew%2BZealand%2BRacing%2BGroup/new-split"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "5"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Campeonato%2BUPM%2BTemporada%2B1/91/admins"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Campeonato%2BUPM%2BTemporada%2B1/91/calendar"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "2"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Campeonato%2BUPM%2BTemporada%2B1/91/drivers"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "6"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Campeonato%2BUPM%2BTemporada%2B1/91/drivers#"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Campeonato%2BUPM%2BTemporada%2B1/91/home"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "4"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Campeonato%2BUPM%2BTemporada%2B1/91/load-file"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Campeonato%2BUPM%2BTemporada%2B1/91/penalties"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Campeonato%2BUPM%2BTemporada%2B1/91/results"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "4"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Campeonato%2BUPM%2BTemporada%2B1/91/teams"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "2"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/CDL%2BeSports/28/calendar"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/CDL%2BeSports/28/drivers"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/CDL%2BeSports/28/home"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "3"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/CDL%2BeSports/28/penalties"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "3"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/CDL%2BeSports/28/penalties/make-applied/20"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/CDL%2BeSports/28/penalties/make-applied/21"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/CDL%2BeSports/28/penalties/make-applied/22"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/CDL%2BeSports/28/penalties/make-not-applied/22"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/CDL%2BeSports/28/results"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "3"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Classic%2BF1%2BLeague/88/calendar"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Classic%2BF1%2BLeague/88/home"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Classic%2BF1%2BLeague/88/results"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Everyone%2BServer%2BRacing%2BLeague/16/calendar"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "6"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Everyone%2BServer%2BRacing%2BLeague/16/drivers"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "3"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Everyone%2BServer%2BRacing%2BLeague/16/home"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Everyone%2BServer%2BRacing%2BLeague/16/load-file"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Everyone%2BServer%2BRacing%2BLeague/16/results"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "2"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Everyone%2BServer%2BRacing%2BLeague/16/teams"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Liga%2BPist%25C3%25B3n/100/admins"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "3"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Liga%2BPist%25C3%25B3n/100/calendar"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "5"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Liga%2BPist%25C3%25B3n/100/drivers"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "12"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Liga%2BPist%25C3%25B3n/100/home"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "18"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Liga%2BPist%25C3%25B3n/100/home#"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Liga%2BPist%25C3%25B3n/100/load-file"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "3"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Liga%2BPist%25C3%25B3n/100/penalties"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "6"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Liga%2BPist%25C3%25B3n/100/penalties/make-applied/37"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Liga%2BPist%25C3%25B3n/100/penalties/make-applied/38"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Liga%2BPist%25C3%25B3n/100/penalties/make-applied/39"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Liga%2BPist%25C3%25B3n/100/penalties/make-applied/40"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Liga%2BPist%25C3%25B3n/100/penalties/make-applied/41"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Liga%2BPist%25C3%25B3n/100/penalties/make-applied/42"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Liga%2BPist%25C3%25B3n/100/penalties/make-applied/43"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Liga%2BPist%25C3%25B3n/100/penalties/make-applied/44"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Liga%2BPist%25C3%25B3n/100/penalties/make-applied/45"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Liga%2BPist%25C3%25B3n/100/penalties/make-applied/46"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Liga%2BPist%25C3%25B3n/100/results"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "10"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Liga%2BPist%25C3%25B3n/100/teams"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "3"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Liga%2BPist%25C3%25B3n/new-split"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/QWEEB%2BLEAGUE/99/drivers"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/QWEEB%2BLEAGUE/99/home"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "2"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/QWEEB%2BLEAGUE/99/teams"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/QWEEB%2BLEAGUE/new-split"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Sonic%2BSim%2BRacing/63/home"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Sonic%2BSim%2BRacing/63/results"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Sonic%2BSim%2BRacing/94/calendar"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Sonic%2BSim%2BRacing/94/drivers"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Sonic%2BSim%2BRacing/94/home"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Sonic%2BSim%2BRacing/94/teams"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "2"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Sonic%2BSim%2BRacing/new-split"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/The%2BUnity%2BF1%2BLeague/89/calendar"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "4"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/The%2BUnity%2BF1%2BLeague/89/calendar#"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/The%2BUnity%2BF1%2BLeague/89/home"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "7"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/The%2BUnity%2BF1%2BLeague/89/penalties"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "3"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/The%2BUnity%2BF1%2BLeague/89/results"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "4"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/The%2BUnity%2BF1%2BLeague/89/results#"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Underdog%2BF1%2BLeague/78/calendar"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "3"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Underdog%2BF1%2BLeague/78/home"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "2"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Underdog%2BF1%2BLeague/78/penalties"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "2"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Underdog%2BF1%2BLeague/78/penalties#"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/Underdog%2BF1%2BLeague/78/results"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "3"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/VVDL%2BACC/101/admins"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "3"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/VVDL%2BACC/101/admins#"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/VVDL%2BACC/101/calendar"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "5"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/VVDL%2BACC/101/drivers"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "8"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/VVDL%2BACC/101/drivers#"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/VVDL%2BACC/101/home"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "21"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/VVDL%2BACC/101/load-file"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "4"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/VVDL%2BACC/101/penalties"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "2"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/VVDL%2BACC/101/penalties#"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/VVDL%2BACC/101/results"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "13"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/VVDL%2BACC/101/results/643#"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/VVDL%2BACC/101/results/644#"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/VVDL%2BACC/101/teams"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "2"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://simracingadmin.com/a/VVDL%2BACC/new-split"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "3"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "https://www.simracingadmin.com/a/Team%2BXI%253A%2BF1%2BRacing%2Bleague/71/home"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "information-tab"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "42"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "league-description-tab"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "102"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "lineups-tab"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "129"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "penalties-tab"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "111"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "results-standings-tab"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "242"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "results-team-standings-tab"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "104"
+                ]
+              }
+            ]
+          }
+        ],
+        "totals": [
+          {
+            "values": [
+              "1223"
+            ]
+          }
+        ],
+        "rowCount": 112,
+        "minimums": [
+          {
+            "values": [
+              "1"
+            ]
+          }
+        ],
+        "maximums": [
+          {
+            "values": [
+              "242"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
