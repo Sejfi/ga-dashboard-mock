@@ -6,12 +6,12 @@
   "itemsPerPage": 1000,
   "items": [
     {
-      "id": "UA-10319094-8",
+      "id": "UA-12223334-8",
       "kind": "analytics#webproperty",
-      "selfLink": "https://www.googleapis.com/analytics/v3/management/accounts/10319094/webproperties/UA-10319094-8",
+      "selfLink": "https://www.googleapis.com/analytics/v3/management/accounts/10319094/webproperties/UA-12223334-8",
       "accountId": "10319094",
       "internalWebPropertyId": "22531947",
-      "name": "Study in Prague",
+      "name": "Website",
       "websiteUrl": "http://kizi.vse.cz",
       "level": "STANDARD",
       "profileCount": 1,
@@ -28,11 +28,41 @@
       "updated": "2018-11-05T18:15:13.990Z",
       "parentLink": {
         "type": "analytics#account",
-        "href": "https://www.googleapis.com/analytics/v3/management/accounts/10319094"
+        "href": "https://www.googleapis.com/analytics/v3/management/accounts/12223334"
       },
       "childLink": {
         "type": "analytics#profiles",
-        "href": "https://www.googleapis.com/analytics/v3/management/accounts/10319094/webproperties/UA-10319094-8/profiles"
+        "href": "https://www.googleapis.com/analytics/v3/management/accounts/10319094/webproperties/UA-12223334-8/profiles"
+      }
+    },
+    {
+      "id": "UA-13338884-8",
+      "kind": "analytics#webproperty",
+      "selfLink": "https://www.googleapis.com/analytics/v3/management/accounts/10319094/webproperties/UA-13338884-8",
+      "accountId": "10319094",
+      "internalWebPropertyId": "22531947",
+      "name": "Mobile App",
+      "websiteUrl": "http://kizi.vse.cz",
+      "level": "STANDARD",
+      "profileCount": 1,
+      "industryVertical": "UNSPECIFIED",
+      "defaultProfileId": "20771985",
+      "dataRetentionTtl": "MONTHS_26",
+      "dataRetentionResetOnNewActivity": true,
+      "permissions": {
+        "effective": [
+          "READ_AND_ANALYZE"
+        ]
+      },
+      "created": "2009-08-20T18:34:15.000Z",
+      "updated": "2018-11-05T18:15:13.990Z",
+      "parentLink": {
+        "type": "analytics#account",
+        "href": "https://www.googleapis.com/analytics/v3/management/accounts/13338884"
+      },
+      "childLink": {
+        "type": "analytics#profiles",
+        "href": "https://www.googleapis.com/analytics/v3/management/accounts/10319094/webproperties/UA-13338884-8/profiles"
       }
     }
   ]
